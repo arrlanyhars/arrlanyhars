@@ -21,8 +21,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrlanyhars&show_icons=true&locale=en&layout=compact" alt="arrlanyhars" /></p>
 
- - Database: Google BigQuery, PostgreSQL, MySQL, SQL Server
- - Python: NumPy, Pandas, scikit-learn, Matplotlib
+ - Database: Google BigQuery, PostgreSQL, MySQL, SQL Server, AWS
+ - Python: Libraries for Data Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
  - Visualization: Tableau, Looker
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
