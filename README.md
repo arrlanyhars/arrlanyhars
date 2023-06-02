@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and Big Data**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: arrlany.medium.com</h3>
 <p align="left">
 </p>
 
