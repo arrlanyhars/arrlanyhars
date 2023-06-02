@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <table><tr><td valign="top" width="33%">
 
-### Backend Engineer 
+<h2 align="center">Backend Engineer </h2>
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />  
@@ -54,8 +54,9 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Git" height="50" />   
 </div></td><td valign="top" width="33%">
 
+
+### Design and Visualization
 <div align="center">
-### Design and Visualization  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="PHP" height="50" />   
