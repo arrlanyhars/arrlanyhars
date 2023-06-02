@@ -14,7 +14,7 @@
 
 <h3 align="left">Please access my Portfolio: </h3>
 <p align="left"> 
-  [Portfolio](https://github.com/arrlanyhars/portfolio)
+  [Portfolio](https://github.com/arrlanyhars/portfolio) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
