@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lani.</h1>
 <h3 align="center">A passionate Data Scientist, Engineer, and Analyst with Python from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrlanyhars&label=Profile%20views&color=0e75b6&style=flat" alt="arrlanyhars" /> </p> https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrlanyhars&label=Profile%20views&color=0e75b6&style=flat" alt="arrlanyhars" /> </p>  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="" width="70" height="40"/> </a>
 
 🌱 I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python programming language for 5++ years as a Data Scientist and Software (Backend) Engineer that enjoy writing Python code, Math and Stat theory for data science, doing analysis and visualization using Tableau, Looker Studio, and Power BI.
 
