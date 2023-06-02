@@ -78,3 +78,7 @@ Mostly:
  - Visualization: Tableau, Looker, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
+
+<h3 align="left">☯️ Professional Achievement: </h3>
+
+  - Finalist Telkomsel Tech Titans League Batch 3 - Machine Learning Series, Nov 2021.
