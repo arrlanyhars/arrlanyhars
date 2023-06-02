@@ -53,9 +53,9 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Git" height="50" />   
 </div></td><td valign="top" width="33%">
-  
-### Design and Visualization
-<div align="center">  
+
+<div align="center">
+### Design and Visualization  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="PHP" height="50" />   
