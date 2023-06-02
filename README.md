@@ -22,6 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrlanyhars&show_icons=true&locale=en&layout=compact" alt="arrlanyhars" /></p>
 
 Mostly:
+ - OS: MacOS, Windows, and Ubuntu
  - Database: Google BigQuery, PostgreSQL, MySQL, SQL Server, AWS
  - Python: Libraries for Data Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
  - Visualization: Tableau, Looker, Power BI
