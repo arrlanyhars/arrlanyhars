@@ -8,7 +8,13 @@
 - 💬 Ask me about **Python and Big Data**
 
 <h3 align="left">Connect with me: </h3>
-<p align="left"> mahar.arry@gmai.com
+<p align="left">
+  mahar.arry@gmail.com
+</p>
+
+<h3 align="left">Please access my Portfolio: </h3>
+<p align="left"> 
+  [Portfolio](https://github.com/arrlanyhars/portfolio)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
