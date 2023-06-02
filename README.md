@@ -35,38 +35,38 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="Mariadb" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQLServer" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" />  
 </div></td><td valign="top" width="33%">
 
 <h2 align="center">Data Science and Machine Learning </h2>
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Git" height="50" />   
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SKLearn" height="50" />  
+<img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" height="50" />   
 </div></td><td valign="top" width="33%">
 
 
 <h2 align="center">Design and Visualization </h2>
 <div align="center">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="PHP" height="50" />   
-<img style="margin: 10px" src="https://media.licdn.com/dms/image/D5612AQG_qZMMQLO7-Q/article-cover_image-shrink_600_2000/0/1676926985196?e=2147483647&v=beta&t=5ZFbE26yiX5gJK9fQ6YvvoiNDjBjTei5MLNXtC0A6VE" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6IenOcxy6bKsRQs64dC_u3rWj5HlHq-vyLgaNrXleslUx_6cp3dgfdt5bilCWh7X6fM&usqp=CAU" alt="PHP" height="50" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" />   
+<img style="margin: 10px" src="https://media.licdn.com/dms/image/D5612AQG_qZMMQLO7-Q/article-cover_image-shrink_600_2000/0/1676926985196?e=2147483647&v=beta&t=5ZFbE26yiX5gJK9fQ6YvvoiNDjBjTei5MLNXtC0A6VE" alt="Looker" height="50" />  
+<img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6IenOcxy6bKsRQs64dC_u3rWj5HlHq-vyLgaNrXleslUx_6cp3dgfdt5bilCWh7X6fM&usqp=CAU" alt="PowerBI" height="50" /> 
 </div></td></table>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrlanyhars&show_icons=true&locale=en&layout=compact" alt="arrlanyhars" /></p>
