@@ -12,7 +12,7 @@
   mahar.arry@gmail.com
 
 
-<h3 align="left">Please access my Portfolio: </h3>
+<h3 align="left">Please access my Portfolio (in-Progress, currently I'm transferring data from my old account): </h3>
 
   [Portfolio](https://github.com/arrlanyhars/portfolio) 
 
