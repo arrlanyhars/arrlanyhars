@@ -7,16 +7,20 @@
 
 💬 Ask me about **Python, Big Data, and Machine Learning**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">☯️ Connect with me: </h3>
 
   mahar.arry@gmail.com
 
 
-<h3 align="left">Please access my Portfolio: </h3>
+<h3 align="left">☯️ Please access my Portfolio: </h3>
 
   [Portfolio](https://github.com/arrlanyhars/portfolio)   (in-Progress, currently I'm transferring data from my old account)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">☯️ Blog: </h3>
+
+  [Medium](https://arrlany.medium.com)
+
+<h3 align="left">☯️ Languages and Tools:</h3>
 <table><tr><td valign="top" width="33%">
 
 <h2 align="center">Backend Engineer </h2>
