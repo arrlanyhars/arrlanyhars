@@ -7,8 +7,8 @@
 
 - 💬 Ask me about **Python and Big Data**
 
-<h3 align="left">Connect with me: </h3>
-<p align="left"> [arrlany.medium.com](https://arrlany.medium.com/) 
+<h3 align="left">Connect with me: </h3> mahar.arry@gmail.com
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
