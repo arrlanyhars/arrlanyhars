@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrlanyhars&label=Profile%20views&color=0e75b6&style=flat" alt="arrlanyhars" /> </p>
 
-- 🌱 I’m currently learning **all about Big Data and Artificial Intelligence**. I've been doing Python for 5++ years that enjoy writing Python code, Math theory, analysis, and visualization using Tableau, Looker Studio, and Power BI
+- 🌱 I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python for 5++ years that enjoy writing Python code, Math theory, analysis, and visualization using Tableau, Looker Studio, and Power BI.
 
 - 💬 Ask me about **Python, Big Data, and Machine Learning**
 
@@ -23,6 +23,6 @@
 
  - Database: Google BigQuery, PostgreSQL, MySQL, SQL Server, AWS
  - Python: Libraries for Data Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
- - Visualization: Tableau, Looker
+ - Visualization: Tableau, Looker, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
