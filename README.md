@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrlanyhars&label=Profile%20views&color=0e75b6&style=flat" alt="arrlanyhars" /> </p>
 
-- 🌱 I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python for 5++ years that enjoy writing Python code, Math and Stat theory for data science, analysis, and visualization using Tableau, Looker Studio, and Power BI.
+🌱 I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python for 5++ years that enjoy writing Python code, Math and Stat theory for data science, analysis, and visualization using Tableau, Looker Studio, and Power BI.
 
-- 💬 Ask me about **Python, Big Data, and Machine Learning**
+💬 Ask me about **Python, Big Data, and Machine Learning**
 
 <h3 align="left">Connect with me: </h3>
 
