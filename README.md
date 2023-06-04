@@ -75,8 +75,9 @@
 
 Mostly:
  - OS: MacOS, Windows, and Ubuntu
- - Database: Google BigQuery, PostgreSQL, MySQL, SQL Server, AWS
- - Python: Libraries for Data Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
+ - Database: Google BigQuery, PostgreSQL, MySQL, Microsoft SQL Server, AWS
+ - Python: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
+ - ETL: PentahoDI, Airflow
  - Visualization: Tableau, Looker, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
