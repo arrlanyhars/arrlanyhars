@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrlanyhars&label=Profile%20views&color=0e75b6&style=flat" alt="arrlanyhars" /> </p>  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="" width="70" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="" width="50" height="40"/> </a>
 
-🌱 As a digital talent at Digital Telco Company, I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python programming language for 5++ years as a Data Scientist and Software (Backend) Engineer that enjoy writing Python code, Math and Stat theory for data science, doing analysis and visualization using Tableau, Looker Studio, and Power BI.
+🌱 As a digital talent at Digital Telco Company Indonesia, I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python programming language for 5++ years as a Data Scientist and Software (Backend) Engineer that enjoy writing Python code, Math and Stat theory for data science, doing analysis and visualization using Tableau, Looker Studio, and Power BI.
 
 💬 Ask me about **Python, Big Data, and Machine Learning**
 
