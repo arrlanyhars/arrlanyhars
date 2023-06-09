@@ -87,7 +87,7 @@ Mostly:
 
 <h3 align="left">------------------------------------------------------------------------------------------------</h3>
 <h3 align="left">My Medium Contents</h3>
-Here, I made a list of my medium contents. Hope it helps!
+Here, I made a list of my medium blog contents. Hope it helps!
 
 > Data Scraping:
  - [Web Scraping Instagram with Python](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4) 
