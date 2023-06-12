@@ -96,3 +96,6 @@ Here, I made a list of my medium blog contents. Hope it helps!
 
 > Statistics:
  - [A/B Testing: Unleashing the Power of Data-Driven Decision Making](https://arrlany.medium.com/a-b-testing-unleashing-the-power-of-data-driven-decision-making-2a299422e702) 
+
+> Others:
+ - [A Comprehensive Guide: Transferring Data from Google Colab to Firebase](https://arrlany.medium.com/a-comprehensive-guide-transferring-data-from-google-colab-to-firebase-1df8669c19fe)
