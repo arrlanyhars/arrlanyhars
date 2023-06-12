@@ -91,4 +91,4 @@ Here, I made a list of my medium blog contents. Hope it helps!
 
 > Data Scraping:
  - [Web Scraping Instagram with Python](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4) 
- - [Web Scraping (HTML parsing and JSON API) using Scrapy Python](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
+ - [Web Scraping (HTML parsing and JSON API) using Scrapy Python)](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
