@@ -77,6 +77,7 @@ Mostly:
  - Database: Google BigQuery, PostgreSQL, MySQL, Microsoft SQL Server, AWS
  - Python: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
  - ETL: PentahoDI, Airflow
+ - Web Analytics: Google Analytics (UA, GA4), Firebase, Google Tag Manager
  - Visualization: Tableau, Looker, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
