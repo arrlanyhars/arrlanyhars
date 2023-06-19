@@ -7,7 +7,7 @@
 
 🌱 As a digital talent at Digital Telco Company - Indonesia, I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python programming language for 5++ years as a Data Scientist and Software (Backend) Engineer that enjoy writing Python code, Math and Stat theory for data science, doing analysis and visualization using Tableau, Looker Studio, and Power BI.
 
-💬 Ask me about **Python, Big Data, and Machine Learning**
+💬 Ask me about **Python, Big Data, and Machine Learning.** I am also a mentor in big data in my daily life.
 
 <h3 align="left">☯️ Please access my Portfolio: </h3>
 
