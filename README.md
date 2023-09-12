@@ -24,7 +24,7 @@
 <h3 align="left">☯️ Languages and Tools:</h3>
 <table><tr><td valign="top" width="33%">
 
-<h2 align="center">Backend Engineer </h2>
+<h2 align="center">Backend Engineering </h2>
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />  
