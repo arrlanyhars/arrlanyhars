@@ -74,9 +74,11 @@
 
 Mostly:
  - OS: MacOS, Windows, and Ubuntu
- - Database: Google BigQuery, PostgreSQL, MySQL, Microsoft SQL Server, AWS
- - Python: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask
- - ETL: PentahoDI, Airflow
+ - Database SQL: Google Cloud BigQuery, PostgreSQL, MySQL, Microsoft SQL Server
+ - Database NoSQL: MongoDB
+ - Python: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Django, Flask, Spark
+ - ETL: PentahoDI
+ - Orchestration: Apache Airflow
  - Web Analytics: Google Analytics (UA, GA4), Firebase, Google Tag Manager
  - Visualization: Tableau, Looker, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
