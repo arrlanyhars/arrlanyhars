@@ -100,10 +100,10 @@ Here, I made a list of my medium blog contents. Hope it helps!
  - [Web Scraping Instagram with Python](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4) 
  - [Web Scraping (HTML parsing and JSON API) using Scrapy Python)](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
 
-# <h3>Data Science and Machine Learning:</h3>
+# <h4>Data Science and Machine Learning:</h4>
  - [A/B Testing: Unleashing the Power of Data-Driven Decision Making](https://arrlany.medium.com/a-b-testing-unleashing-the-power-of-data-driven-decision-making-2a299422e702)
  - [Unveiling Customer Behavior — A Simple Example of Association Analysis in Retail and Marketing](https://arrlany.medium.com/a-simple-example-of-association-analysis-in-retail-and-marketing-9de5b9f9675b)
 
 
-# <h3>Others:</h3>
+# <h4>Others:</h4>
  - [A Comprehensive Guide: Transferring Data from Google Colab to Firebase](https://arrlany.medium.com/a-comprehensive-guide-transferring-data-from-google-colab-to-firebase-1df8669c19fe)
