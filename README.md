@@ -15,7 +15,7 @@
 
 <h3 align="left">☯️ Blog: </h3>
 
-  [Medium](https://arrlany.medium.com)
+  <img src="https://carechemistry.com/images/giphy.gif" width="20" height="13"/> [Click My Medium Blog](https://arrlany.medium.com)
  
 <h3 align="left">☯️ Connect with me: </h3>
 
