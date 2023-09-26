@@ -11,7 +11,7 @@
 
 <h3 align="left">☯️ Here is my Portfolio: </h3>
 
-  <img src="https://carechemistry.com/images/giphy.gif" width="50" height="50"/> [Portfolio](https://github.com/arrlanyhars/portfolio)   (in-Progress, currently I'm transferring data from my old account)
+  <img src="https://carechemistry.com/images/giphy.gif" width="200" height="200"/> [Portfolio](https://github.com/arrlanyhars/portfolio)   (in-Progress, currently I'm transferring data from my old account)
 
 <h3 align="left">☯️ Blog: </h3>
 
