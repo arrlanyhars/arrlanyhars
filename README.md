@@ -91,9 +91,10 @@ Mostly:
   - Finalist Telkomsel Tech Titans League Batch 3 - Machine Learning Series, Nov 2021 - Indonesia.
 
 <h3 align="left">------------------------------------------------------------------------------------------------</h3>
-<h3 align="left">My Medium Contents</h3>
 
-<h2> Here, I made a list of my medium blog contents. Hope it helps! </h3>
+<h1 align="left">My Medium Contents</h1>
+
+Here, I made a list of my medium blog contents. Hope it helps!
 
 # Data Scraping:
  - [Web Scraping Instagram with Python](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4) 
