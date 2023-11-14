@@ -106,6 +106,7 @@ Here, I made a list of my medium blog contents. Hope it helps!
 
 # <h4>Data Engineering:</h4>
  - [How to Join NoSQL Data in MongoDB with Analysis Examples](https://arrlany.medium.com/how-to-join-nosql-data-in-mongodb-with-analysis-examples-62624421c89b)
+ - [Data Engineering Pipeline Documentation: Efficient Data Scraping using Parsing JSON API to BigQuery with Python in Airflow](https://arrlany.medium.com/data-engineering-pipeline-documentation-efficient-data-scraping-using-parsing-json-api-with-python-7cdb8e468705)
 
 # <h4>Others:</h4>
  - [A Comprehensive Guide: Transferring Data from Google Colab to Firebase](https://arrlany.medium.com/a-comprehensive-guide-transferring-data-from-google-colab-to-firebase-1df8669c19fe)
