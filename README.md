@@ -85,6 +85,7 @@ Mostly:
  - Visualization: Tableau, Looker, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
+ - ML Deployment: Streamlit
 
 <h3 align="left">☯️ Professional Achievement (last 3 years): </h3>
 
