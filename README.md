@@ -77,7 +77,7 @@ Mostly:
  - SQL Database: Google Cloud BigQuery, PostgreSQL, MySQL, Microsoft SQL Server
  - NoSQL Database: MongoDB
  - Python - Data: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Spark
- - Python - Backend Engineering: Django, Flask
+ - Python - Backend Engineering: Django, Flask, FastAPI
  - Web Development: Wordpress, Python Django
  - ETL: PentahoDI
  - Orchestration: Apache Airflow
