@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lani.</h1>
-<h3 align="center">A passionate Data Scientist, Engineer, and Analyst with Python from Indonesia</h3>
+<h3 align="center">A Software and Data Engineer, passionate Data Scientist, Engineer, and Analyst with Python from Indonesia</h3>
 
 <p align="center"> <img src="https://media.tenor.com/Ee2YBub-LQ8AAAAi/xiaoxiongmao.gif" width="200" height="200"/> </p>
 
@@ -74,11 +74,13 @@
 
 Mostly:
  - OS: MacOS, Windows, and Ubuntu
+ - Programming Language: Python, JavaScript
  - SQL Database: Google Cloud BigQuery, PostgreSQL, MySQL, Microsoft SQL Server
  - NoSQL Database: MongoDB
  - Python - Data: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Spark
  - Python - Backend Engineering: Django, Flask, FastAPI
- - Web Development: Wordpress, Python Django
+ - Web Development: Wordpress, Python Django, Python Flask, Python FastAPI, ReactJS
+ - Cloud Technology: Google Cloud Platform, Amazon Web Service (AWS), Microsoft Azure
  - ETL: PentahoDI
  - Orchestration: Apache Airflow
  - Web Analytics: Google Analytics (UA, GA4), Firebase, Google Tag Manager
