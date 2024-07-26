@@ -79,7 +79,7 @@ Mostly:
  - NoSQL Database: MongoDB
  - Python - Data: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Spark
  - Python - Backend Engineering: Django, Flask, FastAPI
- - Web Development: Wordpress, Python Django, Python Flask, Python FastAPI, ReactJS, VueJS
+ - Fullstack Web Development: Wordpress, Back-end (Python Django, Python Flask, Python FastAPI), Front-end (ReactJS, VueJS)
  - Cloud Technology: Google Cloud Platform, Amazon Web Service (AWS), Microsoft Azure
  - ETL: PentahoDI, SSIS, Kafka
  - Orchestration: Apache Airflow
