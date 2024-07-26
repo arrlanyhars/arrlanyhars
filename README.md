@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lani.</h1>
-<h3 align="center">A Software and Data Engineer, passionate Data Scientist, Engineer, and Analyst with Python from Indonesia</h3>
+<h3 align="center">A Software and Data Engineer, passionate Artificial Intelligence from Indonesia</h3>
 
 <p align="center"> <img src="https://media.tenor.com/Ee2YBub-LQ8AAAAi/xiaoxiongmao.gif" width="200" height="200"/> </p>
 
