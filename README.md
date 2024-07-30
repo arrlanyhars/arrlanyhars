@@ -7,7 +7,7 @@
 
 🌱 As a digital talent at Telco Company, I’m currently learning **all about Big Data and Artificial Intelligence**. Well experienced in Python programming language for 5++ years as a Data Analytics Engineer and Software Engineer that enjoy writing Python code, Math and Stat theory for data science, doing analysis and visualization using Tableau, Looker Studio, and Power BI. Additionally, I am experienced with Fullstack Software Engineer with Python for BackEnd side, ReactJS and VueJS for FrontEnd side.
 
-💬 Ask me about **Python, Big Data, and Machine Learning.** I am also a mentor in big data in my daily life.
+💬 Ask me about **Python, Big Data, and Machine Learning.** I am also a mentor in Big Data and Backend Engineer in my daily life.
 
 <h3 align="left">☯️ Here is my Portfolio: </h3>
 
