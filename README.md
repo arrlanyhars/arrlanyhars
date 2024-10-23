@@ -75,7 +75,7 @@
 Mostly:
  - OS: MacOS, Windows, and Ubuntu
  - Programming Language: Python, JavaScript, Java, C#
- - SQL Database: Google Cloud BigQuery, PostgreSQL, MySQL, Microsoft SQL Server
+ - SQL Database: Google Cloud SQL, Amazon RDS, Azure SQL Database, PostgreSQL, MySQL, SQL Server
  - NoSQL Database: MongoDB
  - Python - Data: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Spark
  - Python - Backend Engineering: Django, Flask, FastAPI
