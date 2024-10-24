@@ -85,7 +85,7 @@ Mostly:
  - Cloud ETL Microsoft Azure: Data Factory, Synapse Analytics, Databricks, Logic Apps, Stream Analytics, Azure SQL Database
  - Cloud ETL AWS: AWS Glue, EMR, Data Pipeline, Redshift, RDS, Lambda, Kinesis
  - Cloud ETL GCP: BigQuery, Dataflow, Google Cloud Functions, Google Cloud Storage
- - Infrastructure: Docker, Kubernetes
+ - Container: Docker, Kubernetes
  - Orchestration: Apache Airflow, Spark
  - Web Analytics: Google Analytics (UA, GA4), Firebase, Google Tag Manager
  - Visualization: Tableau, Looker Studio, Power BI
