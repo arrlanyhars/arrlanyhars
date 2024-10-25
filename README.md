@@ -82,7 +82,7 @@ Mostly:
  - Fullstack Web Development: Wordpress, Back-end (Python Django, Python Flask, Python FastAPI, Java SpringBoot), Front-end (ReactJS, VueJS)
  - Cloud Technology: Google Cloud Platform, Amazon Web Service (AWS), Microsoft Azure
  - ETL: PentahoDI, SSIS, Kafka
- - Cloud ETL Microsoft Azure: Data Factory, Synapse Analytics, Databricks, Logic Apps, Stream Analytics, Azure SQL Database
+ - Cloud ETL Microsoft Azure: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure Logic Apps, Azure Stream Analytics, Azure SQL Database
  - Cloud ETL AWS: AWS Glue, EMR, Data Pipeline, Redshift, RDS, Lambda, Kinesis
  - Cloud ETL GCP: BigQuery, Dataflow, Google Cloud Functions, Google Cloud Storage
  - Container: Docker, Kubernetes
@@ -91,7 +91,10 @@ Mostly:
  - Visualization: Tableau, Looker Studio, Power BI
  - Theory: Machine Learning, Statistics for Data Science (Probability, Modeling, etc)
  - Design: Figma, Adobe Photoshop
- - ML Deployment: Streamlit
+ - ML Deployment Non Cloud: Streamlit
+ - ML Deployment GCP: Vertex AI, BigQuery ML, TensorFlow on AI Platform
+ - ML Deployment AWS: SageMaker
+ - ML Deployment Microsoft Azure: Azure Machine Learning
 
 <h3 align="left">☯️ Professional Achievement (last 3 years): </h3>
 
